@@ -1,7 +1,7 @@
 ## Technical Support
 
 **App Name:** Bartending Simulator
-**Developer:** Jason Xu
+**Developer:** LAI XU
 
 Thank you for using Bartending Simulator.
 This page provides technical support information and help resources for users.
@@ -74,7 +74,7 @@ Please include:
 ## 技术支持（中文）
 
 **应用名称：** Bartending Simulator
-**开发者：** Jason Xu
+**开发者：** LAI XU
 
 感谢你使用 Bartending Simulator。
 本页面为用户提供应用的技术支持与帮助信息。
@@ -139,5 +139,4 @@ Bartending Simulator 重视用户隐私，不收集、不追踪用户数据，�
 * 问题描述
 
 ---
-
 
