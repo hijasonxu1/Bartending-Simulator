@@ -59,7 +59,7 @@ For more details, please refer to the Privacy Policy page.
 
 If you need further assistance, please contact:
 
-**Email:** bartendingapp (at) outlook (dot) com
+**Email:**  Bartendingapp@outlook.com
 
 Please include:
 
@@ -130,7 +130,7 @@ Bartending Simulator 重视用户隐私，不收集、不追踪用户数据，�
 
 如需进一步帮助，请联系：
 
-**邮箱：** bartendingapp (at) outlook (dot) com
+**邮箱：**  Bartendingapp@outlook.com
 
 请在邮件中注明：
 
